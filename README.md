@@ -2,6 +2,8 @@
 
 SVG renderings of typical archery target faces, such as WA 10-zone, 6-zone, triple spot, NFAA 5-zone and AGB Worcester faces.
 
+See the examples here: [https://xringscoring.github.io/svg_target_faces/](https://xringscoring.github.io/svg_target_faces/)
+
 
 ## Usage
 
