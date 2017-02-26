@@ -73,7 +73,7 @@ produces
     </g>
   </g>
 </svg>
-<div>
+</div>
 
 
 ## License
